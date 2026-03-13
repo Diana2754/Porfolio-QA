@@ -16,3 +16,4 @@ Herramientas:
 - Trello
 
 Repositorio del proyecto:
+https://github.com/Diana2754/QA-Reconocimiento

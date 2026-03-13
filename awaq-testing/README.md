@@ -12,6 +12,6 @@ Herramientas:
 - Trello
 - Github 
 
-Repositorios de los proyectos:
-https://github.com/Diana2754/QA-testing-international-meeting-biodiversity
-https://github.com/Diana2754/QA-testing-congreso-awaq
+Repositorios:
+international-meeting-biodiversity: https://github.com/Diana2754/QA-testing-international-meeting-biodiversity
+congreso-awaq: https://github.com/Diana2754/QA-testing-congreso-awaq
